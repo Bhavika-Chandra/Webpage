@@ -1,0 +1,115 @@
+p{
+text-align: left;
+background-color: ghostwhite;
+}
+body{
+background-color: aliceblue;
+font-size: 20px;
+margin: 50px;
+background-image:url("https://www.pngmart.com/files/7/Purple-Abstract-Lines-PNG-Transparent-Image.png");
+height: 700px; 
+background-size: cover;
+}
+img{
+  border: 2.5px solid black;
+  padding: 5px;
+  border-radius: 12px;
+  margin-top: 50px;
+}
+p{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+ol{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+border-style: solid;
+border-color: black;
+background-color: salmon;
+margin-top: 50px;
+margin-bottom: 50px;
+box-shadow: 5px 8px silver;
+font-family: georgia;
+font-style: oblique;
+font-weight: bold;
+}
+
+figcaption{
+color: brown;
+font-size: 25px;
+margin-bottom: 50px;
+}
+hr{ 
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: ridge;
+  border-width: 4px;
+  height: 2.5px;
+  background-color: brown;
+} 
+h2{
+background-color: salmon;
+box-shadow: 5px 8px silver;
+border-color:black;
+border-style:solid;
+}
+ul {
+  list-style-type: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0;
+  width: 15%;
+  background-color: whitesmoke;
+  position: fixed;
+  height: 80%;
+  overflow: auto;
+  box-shadow: 4px 6px silver;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: indianred;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: lightcoral;
+  color: white;
+}
+.icon-bar {
+  width: 92.5%;
+  background: transparent;
+  overflow: auto;
+  position: fixed;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 8%;
+  text-align: center;
+  padding: 2px 2;
+  transition: all 0.3s ease;
+  color: darkslategray;
+  font-size: 32px;
+}
+
+.icon-bar a:hover {
+  background-color: lightcoral;
+}
+
+.active {
+  background-color: indianred;
+}
+
