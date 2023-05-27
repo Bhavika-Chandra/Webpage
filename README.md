@@ -1,4 +1,4 @@
-# Webpage
+# Guitar webpage
 Hello all!😊
 This is my first basic project on web development (which I created to gain some practical experience of initial phase of development).
 In this project I have mentioned the details of "Guitars" and its various types.
