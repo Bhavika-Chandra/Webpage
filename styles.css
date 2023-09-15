@@ -21,6 +21,7 @@ p,ol{
 h1{
 border-style: solid;
 border-color: black;
+border-radius: 10px;
 background-color: salmon;
 margin-top: 50px;
 margin-bottom: 50px;
@@ -28,6 +29,8 @@ box-shadow: 5px 8px silver;
 font-family: georgia;
 font-style: oblique;
 font-weight: bold;
+position: sticky;
+top: 0;
 }
 
 figcaption{
@@ -113,8 +116,17 @@ li a:hover:not(.active) {
 border-style: none;
 margin: auto;
 font-family: georgia;
-display: inline-flex;
+width:100%;
+position: static;
+background-color: azure;
 }
+.all {
+  margin: 0;
+  padding: 10px;
+  background-color:lavender;
+  border-radius: 14px;
+}
+
 
 
 
