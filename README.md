@@ -1,6 +1,6 @@
 # Guitar webpage
-Hello all!😊
-This is my first basic project on web development (which I created to gain some practical experience of initial phase of development).
+Hello all!
+This is my first basic project on web development (which I created to gain some practical experience of front-end web development).
 In this project I have mentioned the details of "Guitars" and its various types.
 I have styled the UI such that the readers feel more indulged in reading and visualizing things better!
 There is an icon bar on top and a nav-bar on the leftmost side of the page. (I have to work more on them to make the page dynamic and more user-interactive.) 
