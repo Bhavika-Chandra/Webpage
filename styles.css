@@ -112,7 +112,7 @@ li a:hover:not(.active) {
 .active {
   background-color: indianred;
 }
-.footer{
+footer{
 border-style: none;
 margin: auto;
 font-family: georgia;
